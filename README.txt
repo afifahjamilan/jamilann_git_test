@@ -7,3 +7,6 @@ Programming background: Python and C++
 
 Name: Sarah Clay
 Email address: claysar2@msu.edu
+
+Name: Zhishan Li
+Email address: lizhisha@msu.edi
